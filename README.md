@@ -1,1 +1,1 @@
-# 记账本（account book）
+# 汇率 （exchange rate）
